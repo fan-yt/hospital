@@ -10,5 +10,6 @@ public class TestController {
 
     public static void main(String[] args) {
         System.out.println("sssssssss");
+        int i = 12;
     }
 }
