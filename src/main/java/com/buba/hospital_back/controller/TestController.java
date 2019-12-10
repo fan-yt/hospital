@@ -9,7 +9,7 @@ package com.buba.hospital_back.controller;
 public class TestController {
 
     public static void main(String[] args) {
-        System.out.println("sssssssss");
+        System.out.println("123123");
         int i = 12;
         int i1=15;
     }
